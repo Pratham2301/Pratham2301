@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham2301&label=Profile%20views&color=0e75b6&style=flat" alt="pratham2301" /> </p>
 
-<img align="right" alt="image" align="right" width="600" src="github-readme-img.png">
-
 - 🔭 I’m currently working on **Django Projects**
 
 - 🌱 I’m currently learning **React, NodeJs**
 
 - 📫 How to reach me **rajbhojpr@rknec.edu**
+
+<img align="right" alt="image" float="right" width="600" src="github-readme-img.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
