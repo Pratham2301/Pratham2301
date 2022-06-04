@@ -1,10 +1,10 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)
+[![MasterHead](https://www.canva.com/design/DAFCqgBYojw/jHBqO2VryBMfwENXdWF9RA/view?utm_content=DAFCqgBYojw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <h1 align="center">Hi 👋, I'm Pratham Rajbhoj</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham2301&label=Profile%20views&color=0e75b6&style=flat" alt="pratham2301" /> </p>
 
-<img align="right" alt="image" width="400" src="/github-readme-img.png">
+<img align="right" alt="image" width="600" src="github-readme-img.png">
 - 🔭 I’m currently working on **Django Projects**
 
 - 🌱 I’m currently learning **React, NodeJs**
