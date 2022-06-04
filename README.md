@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFCqgBYojw/jHBqO2VryBMfwENXdWF9RA/view?utm_content=DAFCqgBYojw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<a href="#"><img width="100%" height="auto" src="github-readme-banner.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Pratham Rajbhoj</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
