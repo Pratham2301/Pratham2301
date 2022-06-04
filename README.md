@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham2301&label=Profile%20views&color=0e75b6&style=flat" alt="pratham2301" /> </p>
 
+<img align="right" alt="image" width="400" src="/github-readme-img.png">
 - 🔭 I’m currently working on **Django Projects**
 
 - 🌱 I’m currently learning **React, NodeJs**
