@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, NodeJs**
 
-- 📫 How to reach me **rajbhojpr@rknec.edu**
+- 📫 How to reach me **prathamrajbhoj2003@gmail.com, rajbhojpr@rknec.edu**
 
 <img align="right" alt="image" float="right" width="600" src="github-readme-img.png">
 
