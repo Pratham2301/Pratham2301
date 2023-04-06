@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN + Django Projects**
 
-- 🌱 I’m currently learning **Machine & Deep Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **prathamrajbhoj2003@gmail.com, rajbhojpr@rknec.edu**
 
