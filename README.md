@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham2301&label=Profile%20views&color=0e75b6&style=flat" alt="pratham2301" /> </p>
 
-- 🔭 I’m currently working on **MERN + Django Projects**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **prathamrajbhoj2003@gmail.com, rajbhojpr@rknec.edu**
 
