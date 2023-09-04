@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Next.js**
-
 - 📫 How to reach me **prathamrajbhoj2003@gmail.com, rajbhojpr@rknec.edu**
 
 <img align="right" alt="image" float="right" width="600" src="github-readme-img.png">
